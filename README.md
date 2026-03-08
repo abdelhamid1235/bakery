@@ -6,12 +6,6 @@ multiple sections, and a responsive layout.
 
 ------------------------------------------------------------------------
 
-## 🔗 Live Demo
-
- https://abdelhamid1235.github.io/bakery
-
-------------------------------------------------------------------------
-
 ## 📌 Features
 
 -   Responsive design
@@ -63,5 +57,10 @@ This is achieved using **CSS media queries**.
 
 **Abdelhamid Sarhan**
 
-GitHub:\
-https://github.com/abdelhamid1235
+------------------------------------------------------------------------
+
+## 🔗 Live Demo
+
+ https://abdelhamid1235.github.io/bakery
+
+------------------------------------------------------------------------
