@@ -8,9 +8,7 @@ multiple sections, and a responsive layout.
 
 ## 🔗 Live Demo
 
-You can view the live website here:
-
-https://abdelhamid1235.github.io/Weather/
+ https://abdelhamid1235.github.io/bakery
 
 ------------------------------------------------------------------------
 
